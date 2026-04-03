@@ -3,7 +3,7 @@
   "description": "Using Redux Form with an Immutable JS Redux store",
   "version": "0.0.0",
   "dependencies": {
-    "immutable": "3.8.1",
+    "immutable": "3.8.3",
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-redux": "5.0.6",
